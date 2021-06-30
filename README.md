@@ -7,7 +7,9 @@ Place into Community Folder
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Image](img/KMCI-1.1)
+![GitHub Logo](/img/KMCI-1.1)
+Format: ![Alt Text](url)
+
 
 What I have beeen working on. 
 Runways
