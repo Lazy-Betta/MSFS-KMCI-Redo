@@ -9,7 +9,8 @@ Place into Community Folder
 
 ![GitHub Logo](https://github.com/Lazy-Betta/MSFS-KMCI-Redo/blob/main/img/KMCI-1.1.png)
 
-
+##The AI Traffic
+The AI will use the airport correctly. Meaning th ecorrect plane types at the gates etc. The AI should also use taxiways too. 
 
 # What I have beeen working on: 
   - Runways
