@@ -7,7 +7,7 @@ Place into Community Folder
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][/img/KMCI-1.1]]
+[![Product Name Screen Shot][img/KMCI-1.1]]
 
 What I have beeen working on. 
 Runways
