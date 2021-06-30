@@ -1,8 +1,8 @@
-# MSFS-KMCI-Redo
+# rts-KMCI-Redo Betta
 
 Place into Community Folder
 
-# rts-KMCI-Redo Betta
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -12,7 +12,7 @@ Place into Community Folder
 ## The AI Traffic
 The AI will use the airport correctly. Meaning the correct plane types at the gates etc. The AI should also use taxiways too. more to come on this...
 
-# What I have been working on: 
+## What I have been working on: 
   - Runways
   - Runway Lights
   - Taxiways
