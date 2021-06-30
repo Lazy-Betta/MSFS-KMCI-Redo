@@ -2,7 +2,12 @@
 
 Place into Community Folder
 
-#rts-KMCI-Redo Betta
+# rts-KMCI-Redo Betta
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]]
 
 What I have beeen working on. 
 Runways
