@@ -8,24 +8,24 @@ Place into Community Folder
 ## About The Project
 
 ![GitHub Logo](https://github.com/Lazy-Betta/MSFS-KMCI-Redo/blob/main/img/KMCI-1.1.png)
-Format: ![rts-KMCI-Betta](https://github.com/Lazy-Betta/MSFS-KMCI-Redo/blob/main/img/KMCI-1.1.png)
 
 
-What I have beeen working on: 
-  -Runways
-  -Runway Lights
-  -Taxiways
-  -Taxiways 
-    -Lights
-    -Lines 
-    -Labeling
-  -Aprons
-  -Lighing
+
+# What I have beeen working on: 
+  - Runways
+  - Runway Lights
+  - Taxiways
+  - Taxiways 
+    - Lights
+    - Lines 
+    - Labeling
+  - Aprons
+  - Lighing
     - I have added some lighting to the airport so you can see at night.
-  -Gates are still a work in progress. 
-    -Although they are all hooked up(labed and connect to taxiways) The Panintelines are not complete as well as the labeling is not correct. 
-    -It's a working progress
-  -I added an Homage to FS by adding a FS Apron with all of the MSFS Club Planes and the FS Hanger from LAX
-  -The Large East Cargo Apron is started and has working ramps. Again Work in progress.
+  - Gates are still a work in progress. 
+    - Although they are all hooked up(labed and connect to taxiways) The Panintelines are not complete as well as the labeling is not correct. 
+    - It's a working progress
+  - I added an Homage to FS by adding a FS Apron with all of the MSFS Club Planes and the FS Hanger from LAX
+  - The Large East Cargo Apron is started and has working ramps. Again Work in progress.
 
   -Much more too much to list. 
